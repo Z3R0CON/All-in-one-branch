@@ -1,5 +1,5 @@
 
-
+adeventtracker.spotify.com
 media-match.com
 adclick.g.doublecklick.net
 googleads.g.doubleclick.net
